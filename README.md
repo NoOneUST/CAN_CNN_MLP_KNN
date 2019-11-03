@@ -4,7 +4,6 @@
 We implement CAN, CNN, MLP, KNN in this project.
 
 ## Experiment Result
-                                                    SIFT feature extraction
 ![image1](./images/1.PNG)
 
 ![image2](./images/2.png)
