@@ -1,4 +1,4 @@
-# CAN_CNN_MLP_KNN
+# CAN CNN MLP KNN
 
 ## Overview
 We implement CAN, CNN, MLP, KNN in this project.
